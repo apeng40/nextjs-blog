@@ -18,7 +18,12 @@ body {
 }
 
 a {
-  color: inherit;
+  color: blue;
+  text-decoration: none;
+}
+
+b {
+  color: blue;
   text-decoration: none;
 }
 
